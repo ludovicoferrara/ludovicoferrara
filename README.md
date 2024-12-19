@@ -20,7 +20,7 @@
 | **CI / CD**                                     | ![Git](https://img.shields.io/badge/-Git%20-FF4400?style=flat&logo=Git&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-FF4400?style=flat&logo=Github&logoColor=white)                                                                              
 | **Databases**                                   | ![DB Badge](https://img.shields.io/badge/MySql-blue.svg?logo=MySql&logoColor=white) ![MariaDb](https://img.shields.io/badge/-MariaDb-blue.svg?logo=MariaDb&logoColor=white)                                                    |
 | **OS**                                          | ![Windows Badge](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=white)
-| **Framework**                            | ![NodeJS Badge](https://img.shields.io/badge/NodeJS-E34F26?style=flat&logo=nodejs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)
+| **Framework**                            | ![NodeJS Badge](https://img.shields.io/badge/NodeJS-E34F26?style=flat&logo=nodejs&logoColor=white) ![React](https://img.shields.io/badge/React-E34F26?style=flat&logo=react&logoColor=white)
 | **Tools & Platform**                            | ![AWS](https://img.shields.io/badge/AWS-FFD700??style=flat&logo=amazon-aws&logoColor=black)
   
           
