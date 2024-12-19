@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/Bottom_up.svg" width="100%" height="auto">
-<img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47llnn0i7wk7gr21m12b05zfa31jfz70oi2tck0pxh&rid=giphy.gif&ct=g" width="100%" height="auto" frameBorder="0">
+<img src="https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif?cid=ecf05e477carh9tzoj2f0fharltvhdle482lpmy17sy89hkt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="auto" frameBorder="0">
 
 
 
