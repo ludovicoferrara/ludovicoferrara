@@ -1,0 +1,15 @@
+ 68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d65636630356534376c6c6e6e306937776b37677232316d31326230357a666133316a667a37306f693274636b30707868267269643d67697068792e6769662663743d67
+
+Typing SVG
+
+Property	Data
+IDEs	VsCode Badge Intellij Badge PyCharm Badge
+Language	Java JavaScript TypeScript Lua Badge Python Badge Swift Badge
+Knownledge	Software Development Badge
+CI / CD	Git Github Badge
+Databases	DB Badge MariaDb
+OS	Windows Badge
+Framework	NodeJS Badge Angular
+Tools & Platform	AWS
+
+You are visitor Nº
