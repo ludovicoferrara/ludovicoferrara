@@ -1,8 +1,6 @@
 
 <div align="center">
 <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/Bottom_up.svg" width="100%" height="auto">
-<img src="https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif?cid=ecf05e477carh9tzoj2f0fharltvhdle482lpmy17sy89hkt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" height="auto" frameBorder="0">
-
 
 
 <!--   my-ticker -->    
